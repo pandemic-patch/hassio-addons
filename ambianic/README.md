@@ -15,7 +15,7 @@ This _addon_ is built for the following architectures and available in [Docker H
 Install using the Home Assistant addon store; add this repository `http://github.com/dcmartin/hassio-addons` to your store and select the `ambianic` _addon_.
 
 ## Configuration
-The Ambianic _addon_ has the following configuration options (see [DOCS.md](DOCS.md) for more information:
+The Ambianic _addon_ has the following configuration options (see [DOCS.md](DOCS.md) for more information):
 
 ### `sources`
 Sources for sensors which can be consumed, e.g. an `RTSP` feed from a web camera.
