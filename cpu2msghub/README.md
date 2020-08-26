@@ -1,6 +1,6 @@
 # `cpu2msghub` -  addon for Home Assistant
 
-This [Home Assistant][home-assistant] add-on is for the [Open Horizon][open-horizon] [`cpu2msghub`][cpu-pattern] pattern
+This [Home Assistant][home-assistant] add-on is for the [Open Horizon][open-horizon] [`cpu2msghub`][cpu-pattern] pattern.
 
 This add-on requires the [setup][dcm-oh] of Horizon, a distibuted, decentralized, zero-ops, method and apparatus to deploy containers from the IBM Cloud.
 
@@ -22,7 +22,7 @@ Please refer to the [`open-horizon`][dcm-oh] repository.
 
 ### Install addon
 
-1. [Add this repository][repository] to your Hass.io addon store.
+1. [Add this repository][repository] to your Hass.io addon store
 1. Install the "cpu2msghub" add-on
 1. Setup the "cpu2msghub" add-on
   - Configure `kafka` with your IBM MessageHub API key
